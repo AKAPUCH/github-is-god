@@ -18,4 +18,4 @@
 
 ### 질문목록
 
-- Delegates와 Notification 방식의 차이점에 대해 설명하시오.
+- [Delegates와 Notification 방식의 차이점에 대해 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/1)
