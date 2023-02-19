@@ -24,3 +24,4 @@
 - [Delegates와 Notification 방식의 차이점에 대해 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/1)
 - [HTTP 메소드에 대해 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/2)
 - [쿠키와 세션의 차이에 대해서 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/3)
+- [copy-on-write가 어떻게 동작하는지 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/3)
