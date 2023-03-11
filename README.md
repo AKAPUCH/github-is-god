@@ -25,5 +25,5 @@
 - [HTTP 메소드에 대해 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/2)
 - [쿠키와 세션의 차이에 대해서 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/3)
 - [copy-on-write가 어떻게 동작하는지 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/4)
-- [UITableView와 UICollectionView의 차이점을 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/5)
-- [GCD API의 동작과정과 필요성에 대해 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/6)
+- [UITableView와 UICollectionView의 차이점을 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/4)
+- [GCD API의 동작과정과 필요성에 대해 설명하시오.](https://github.com/AKAPUCH/github-is-god/issues/5)
